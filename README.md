@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+
+Eager learner and passionate about ML and AI applied in business.
+
+Currently taking a master's degree in international business. 
 
 <!--
 **Ernst-hub/Ernst-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
